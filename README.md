@@ -4,7 +4,7 @@
 
 ![alt text](Webpage.png)
 
-## Healthy Eye or Non - Referable Glaucoma which does not need doctor's consultation
+## Healthy Eye or Non-Referable Glaucoma which does not need doctor's consultation
 
 ![alt text](Healthy-eye.png)
 
