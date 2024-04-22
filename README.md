@@ -52,7 +52,7 @@ View CNN model architecture
 
 # How to use this app: 
 
-To use this project - go to this link 
+To use this project - Here: https://glaucoma-detection-app.streamlit.app/
 
 (or)
 
@@ -60,7 +60,7 @@ To run this app
 
 ```
 pip install -r requirements.txt
-streamlit run 
+streamlit run https://glaucoma-detection-app.streamlit.app/
 ```
 
 (or)
