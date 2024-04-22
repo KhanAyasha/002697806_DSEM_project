@@ -13,7 +13,7 @@ ratio = r / R >= 33.33% Ratina could be impacted with Glaucoma.
 ## Model
 View CNN model architecture 
 
-![alt text](my_model.png)
+![alt text](<CNN Model.png>)
 
 
 ## Web Page
