@@ -77,3 +77,13 @@ streamlit run glaucoma_app.py
 * I provided two folders NRG and RG. These contain images from my test set. Use these if you don't have any fundus images with you.
 
 Note: The image should be cropped around the optic nerve part.
+
+# Future Improvement
+
+The convolutional layers are crucial for extracting key features from images, but their effectiveness can be influenced by image quality and noise. However, the primary focus of this model is the retinal ratio (r/R), specifically the ratio of cup radius to disc radius. This feature holds paramount importance for the task at hand.
+
+We can modify the CNN architecture to prioritize the extraction and utilization of this feature. 
+
+To prioritize the retinal ratio feature in CNN models, we can enhance image quality through preprocessing like contrast enhancement and edge detection. We can add a custom layer to calculate cup-to-disc radius ratio directly. Fuse this feature with existing ones via techniques like concatenation. Optimize model performance with a custom loss function penalizing deviation from the desired ratio. 
+
+We can also assess the model's ability to predict this feature alongside traditional metrics during validation and testing. This ensures the model extracts and prioritizes crucial information, enhancing its relevance to the task at hand.
