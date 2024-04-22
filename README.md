@@ -1,5 +1,15 @@
 # Glaucoma detector ML APP
 
+## About Glaucoma
+
+Glaucoma is a group of eye conditions that damage the optic nerve, which is essential for good vision, often due to high pressure in the eye. It's a leading cause of blindness worldwide. While ongoing studies seek medical interventions to halt or prevent glaucoma progression, early detection remains paramount. Detecting the condition in its early stages allows for interventions aimed at slowing its advancement. Regular eye examinations play a vital role in diagnosing glaucoma and averting vision loss.
+
+Within the retina, the cup region is encircled by the retinal disc. When the retinal disc's radius expands to the extent that the ratio of cup radius to disc radius equals or exceeds 33.33%, it indicates recognizable glaucoma or a Glaucomatous Eye.
+
+![Untitled design](https://github.com/KhanAyasha/002697806_DSEM_assignments-/assets/144647351/07249e32-1688-4141-bf1e-ce75c446b8a1)
+
+ratio = r / R >= 33.33% Ratina could be impacted with Glaucoma.
+
 ## Web Page
 
 ![alt text](Webpage.png)
