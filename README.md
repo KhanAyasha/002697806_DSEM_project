@@ -10,6 +10,9 @@ Within the retina, the cup region is encircled by the retinal disc. When the ret
 
 ratio = r / R >= 33.33% Ratina could be impacted with Glaucoma.
 
+## Model
+View CNN model architecture my_model.png
+
 ## Web Page
 
 ![alt text](Webpage.png)
